@@ -75,3 +75,12 @@ a:hover {
   background-color: #C1B44F;
   transform: rotateY(180deg);
 }
+
+header-image {
+    display: block;
+    width: 30%;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
