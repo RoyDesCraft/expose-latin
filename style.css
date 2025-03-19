@@ -70,3 +70,8 @@ a:hover {
 .card-front {
   background-color: #FFDB89;
 }
+
+.card-back {
+  background-color: #C1B44F;
+  transform: rotateY(180deg);
+}
